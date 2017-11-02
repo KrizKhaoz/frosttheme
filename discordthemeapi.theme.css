@@ -1,5 +1,5 @@
 
-//META{"name":"DiscordThemeAPI","description":"Frost Theme API Discord' Theme","author":"KrizFrost","version":"1.0"}*//{}
+//META{"name":"DiscordThemeAPI","description":"Frost API Discord' Theme","author":"KrizFrost","version":"1.0"}*//{}
 :root { 
 	--theme-name: "Frost";
 	--theme-letter: "F";
@@ -581,7 +581,7 @@ code {background-color: rgba(0,0,0,0.6)!important;background-image: linear-gradi
 
 .create-guild-container.deprecated .action {background: rgba(0,0,0,0.4)!important;}
 
-.form.deprecated .btn-default {background-color:URL(https://i.imgur.com/4fqfZ0l.png""!important;
+.form.deprecated .btn-default {background: transparent!important;
     
 
 .form .control-group input[type=text], .form .control-group input[type=email], .form .control-group input[type=password], .form .control-group input[type=number], .form .control-group textarea {color: #cecece!important;background:rgba(0,0,0,0.75)!important;}
