@@ -1,6 +1,7 @@
 /META{"name":"DiscordNewsThemeAPI","description":"Frost News Theme API Discord' Theme","author":"KrizFrost","version":"1.0"}*//{}
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400i);
+@import url(https://fonts.googleapis.com/css?family=Russo+One);
 
 :root {
     --version-content: "7.0";
@@ -8,6 +9,11 @@
     --theme-letter: "F";
 }
 /* Version Displayed */
+
+.badge{
+    font-family: 'Russo One', sans-serif;
+    color: lightskyblue;
+}
 
 .version{display:inline-block;margin:0px 0px 0px 0px;}
 
