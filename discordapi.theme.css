@@ -1,6 +1,2 @@
-:root {
-    --version-content: "1.0";
-    --theme-name: "DiscordAPI";
-    --theme-letter: "A";
-}
+//META{"name":"DiscordAPI","description":"Frost API Discord' Theme","author":"KrizFrost","version":"1.0"}*//{}
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Theme Changes: \A \A -Updated Background \A \A - Secured Code"!important;}
